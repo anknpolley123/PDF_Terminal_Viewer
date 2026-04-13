@@ -35,3 +35,13 @@
 
 <img width="1082" height="1786" alt="image" src="https://github.com/user-attachments/assets/eae69971-bead-49dd-bfd5-f9122d4e2911" />
 
+## Features
+
+**Colored Output:** Uses *lolcat* for a rainbow terminal effect.
+
+**OCR Support:** Automatically handles scanned PDFs using *ocrmypdf*.
+
+**Language Support:** Optimized for English and Bengali text.
+
+**Easy Setup:** One-command dependency installer.
+

@@ -45,3 +45,19 @@
 
 **Easy Setup:** One-command dependency installer.
 
+
+## Installation
+
+Clone the repository and run the setup script to install all dependencies (Poppler, Lolcat, Tesseract OCR):
+
+```bash
+git clone https://github.com/anknpolley123/PDF_Terminal_Viewer.git
+
+cd PDF_Terminal_Viewer
+
+chmod +x setup.sh
+
+./setup.sh
+```
+
+
